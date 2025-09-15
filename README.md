@@ -1,4 +1,5 @@
 # resumo-do-lab
+Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 1. Escalabilidade e Elasticidade
 Escalabilidade: você aumenta ou reduz recursos de acordo com a demanda (ex.: mais VMs, mais poder de processamento).
 Elasticidade: os recursos são ajustados automaticamente em tempo real — cresce quando precisa, diminui quando não precisa, evitando custo desnecessário.
